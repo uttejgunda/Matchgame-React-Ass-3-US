@@ -251,7 +251,7 @@ const initialState = {
   score: 0,
   displayImage: imagesList[0],
   isGamePlaying: true,
-  timer: 5,
+  timer: 60,
   secondsElapsed: 0,
 }
 
