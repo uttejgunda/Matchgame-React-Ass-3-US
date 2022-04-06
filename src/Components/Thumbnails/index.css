@@ -1,0 +1,23 @@
+.thumbnail-image-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0px;
+  margin-right: 4px;
+  margin-left: 4px;
+  margin-bottom: 4px;
+}
+
+@media screen and (min-width: 768px) {
+  .thumbnail-image-button {
+    margin-right: 6px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+  }
+}
+
+.thumbnail-image {
+  width: 70px;
+  height: 70px;
+}
